@@ -1,0 +1,78 @@
+<!doctype html>
+<!--suppress ALL -->
+<html class="no-js" lang="en">
+
+<head>
+  <meta charset="utf-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+  <title>Stonegood</title>
+  <link rel="stylesheet" href="photo.css">
+  <meta name="description" content="">
+
+  <meta property="og:title" content="">
+  <meta property="og:type" content="">
+  <meta property="og:url" content="">
+  <meta property="og:image" content="">
+
+  <link rel="icon" href="stonegood_pyramid_light.ico" sizes="any">
+  <!-- <link rel="icon" href="/icon.svg" type="image/svg+xml"> -->
+  <link rel="apple-touch-icon" href="">
+
+  <link rel="manifest" href="site.webmanifest">
+  <meta name="theme-color" content="#fafafa">
+</head>
+<body>
+
+  <header>
+    <img class="center_logo" src="stonegood_logo_02_black.png" alt="Stonegood logo">
+  </header>
+
+  <div>
+      <nav>
+      <strong>
+        <a href="stonegood_home.html">Home</a>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+        <a href="stonegood_music.html">Music</a>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+        <a href="https://stonegood.bandcamp.com/merch" target="_blank">Merch</a>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+        <a href="https://www.instagram.com/stonegood.beats" target="_blank">Photos</a>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+        <small>
+        <a href="https://docs.google.com/forms/d/e/1FAIpQLSdJ44xllrNusNfJ0VAbqgqESMUsnh3i0-JqBZpw5wVn6md55Q/viewform"
+           target="_blank">Join The Team</a></small>
+      </strong>
+    </nav>
+  </div>
+
+  <main>
+      <script src="js/app.js"></script>
+
+  </main>
+
+  <footer class="center_bottom">
+    <small>
+      <div id="social_icons">
+       <a href="https://www.facebook.com/stonegoodbeats" target="_blank">
+       <img src="facebook_icon.png" class="facebook_icon" height="30px" width="30px" alt="spotify logo">
+       </a>
+       <a href="spotify:artist:2Bo2lqjabREtbC0gk9d2XL?si=u9ZFkxgsQTOh-BwVo0R7eA" target="_blank">
+       <img src="spotify_icon.png" class="spotify_icon" height="35px" width="35px" alt="spotify logo">
+       </a>
+       <a href="https://soundcloud.com/stonegood" target="_blank">
+       <img src="soundcloud_icon.png" class="soundcloud_icon" height="35px" width="65px" alt="soundcloud logo">
+       </a>
+       <a href="https://stonegood.bandcamp.com/" target="_blank">
+       <img src="bandcamp_icon.png" class="bandcamp_icon" height="39px" width="39px" alt="bandcamp logo">
+       </a>
+       <a href="https://discord.gg/8xrQuExYFF" target="_blank">
+       <img src="discord_icon.png" class="discord_icon" height="33px" width="40px" alt="discord logo">
+       </a>
+       <a href="https://www.youtube.com/channel/UCP4um7y2oOOBi7dSurVHNVw" target="_blank">
+       <img src="youtube_icon.png" class="youtube_icon" height="38px" width="38px" alt="youtube icon">
+       </a>
+      </div>
+      <br>
+      <a href="mailto:bretton@stonegood.net">bretton@stonegood.net</a>
+      <br>
+      Stonegood &copy; 2024
+    </small>
+  </footer>
+</body>
+</html>
